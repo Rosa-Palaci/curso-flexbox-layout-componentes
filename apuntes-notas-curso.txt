@@ -33,5 +33,26 @@ flex-direction .css
     overflow: scroll; scroll interno
       overflow: auto; solo muestra si este excede mas medidas predeterminadas
 
+VIDEO 14:
+linea de flex align 
+linea dentro del beupor 
+un elemento inline
 
-     
+Estas propiedades solo existen dentro del mundo de flexbox
+
+Un scroll flexible (No es muy estetico) scroll horizontal la gente no hace scrol horizontal
+Flex-wrap
+
+  flex-wrap: nowrap;valor por defecto
+    flex-wrap: wrap; por cascada este es el que tomara en cuenta al final 
+flex-wrap .css
+
+flex-wrap: nowrap;
+  flex-wrap: wrap;
+
+  /* un caso que casi nunca pero es buen dato */
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+
+  /* direction y wrap se pueden mezclar con: */
+  flex-flow: row-reverse wrap-reverse;
