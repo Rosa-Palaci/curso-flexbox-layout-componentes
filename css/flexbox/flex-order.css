@@ -11,9 +11,10 @@
 
 .flexOrder:nth-child(odd) p {
   border: 1px solid red;
-  order: 1;
+  /* order: 1; */
+  order: -1;
 }
 
-.flexOrder:nth-child(odd) img {
+/* .flexOrder:nth-child(odd) img {
   order: 2;
-}
+} */

@@ -24,4 +24,14 @@ Zigzag de elementos
 gap un forma de dar un espaciado igual de los itesm flex
 order es una propiedad de los flex itesm alinea los elementos 
      con un valor positivo el otro elemento es necesario que tenga un tipo de order
+     con un negativo es con menos codigo zigzag igual
+
+flex-direction .css
+  /* flex-direction: row; no hace nada modo fila */
+  /* flex-direction: row-reverse; hace que empieze de derecha a izquierda */
+  /* flex-direction: column; meritos visuales */
+    overflow: scroll; scroll interno
+      overflow: auto; solo muestra si este excede mas medidas predeterminadas
+
+
      
