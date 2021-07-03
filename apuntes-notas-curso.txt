@@ -1,0 +1,7 @@
+
+Video 12:
+Ordena los css y reglas que Leonidas usa para eficacia de sus trabajos
+Explica el flex
+Desde el inspeccionador de Chrome explica Computed 
+    a lado de Styles que es una forma de ver información valiosa de los estilos css
+💥flex-wrap: wrap; (baja los elementos) parece mágia 💥
