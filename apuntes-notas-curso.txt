@@ -15,3 +15,13 @@ justify vs align
 VIDEO 13:
 Elementos de una página
 Componente que se invierten con flexbox puede ser más fácil
+
+    Repositorio del curso:
+    https://github.com/LeonidasEsteban/curso-flexbox-layout-componentes
+
+Zigzag de elementos
+
+gap un forma de dar un espaciado igual de los itesm flex
+order es una propiedad de los flex itesm alinea los elementos 
+     con un valor positivo el otro elemento es necesario que tenga un tipo de order
+     
