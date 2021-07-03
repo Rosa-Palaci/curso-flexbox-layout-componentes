@@ -5,3 +5,9 @@ Explica el flex
 Desde el inspeccionador de Chrome explica Computed 
     a lado de Styles que es una forma de ver información valiosa de los estilos css
 💥flex-wrap: wrap; (baja los elementos) parece mágia 💥
+
+Display block (Cambio el contextos flexbox) aqui no aplica las propiedades de bloque sobre bloque
+
+justify vs align
+    Son importan
+    !Adelantito -webkit-box-align strech! importante para estirar ¿?
