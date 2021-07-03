@@ -1,5 +1,5 @@
 
-Video 12:
+VIDEO 12:
 Ordena los css y reglas que Leonidas usa para eficacia de sus trabajos
 Explica el flex
 Desde el inspeccionador de Chrome explica Computed 
@@ -11,3 +11,7 @@ Display block (Cambio el contextos flexbox) aqui no aplica las propiedades de bl
 justify vs align
     Son importan
     !Adelantito -webkit-box-align strech! importante para estirar ¿?
+
+VIDEO 13:
+Elementos de una página
+Componente que se invierten con flexbox puede ser más fácil
